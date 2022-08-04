@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.movie {
+  background: #f8f9fa;
+  border-radius: 3px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  position: relative;
+  margin: auto;
+  margin-top: 5%;
+  justify-content: center;
+  align-content: center;
+  width: 50%;
+}
+
+.movie img {
+  width: 100%;
+  padding: 10px;
+}
+
+.overview {
+  text-align: justify;
+  padding: 15px;
+}
+
+.vote_aberage {
+  background: rgb(216, 216, 21);
+  width: 15%;
+  margin: auto;
+}
